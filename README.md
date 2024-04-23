@@ -30,8 +30,3 @@
 <a href="https://kaggle.com/daaanishhh002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="daaanishhh002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/daaanishhh002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daaanishhh002" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daaanishhh002&show_icons=true&locale=en&layout=compact" alt="daaanishhh002" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daaanishhh002" alt="daaanishhh002" /></a> </p>
-
