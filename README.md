@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danish Ahmed</h1>
-<h3 align="center">A Data Scientist and Deep Learning Admirer from Hyderbad,India</h3>
+<h3 align="center">A Data Scientist, and Deep Learning Admirer</h3>
+
+- 🔭 I’m currently working on **Skill Aggregator Tool**
 
 - 🌱 I’m currently learning **Python, Machine Learning and PostgreSQL**
 
-- 🤝 I’m looking for help with **Deep Learning, Generative AI and Computer Vision.**
+- 🤝 I’m looking for help with **Deep Learning, Generative AI and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [github.com/daaanishhh002](github.com/daaanishhh002)
 
