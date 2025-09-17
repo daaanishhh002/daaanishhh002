@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Ahmed</h1>
-<h3 align="center">A Data Scientist, and an AI Engineer</h3>
-
-# Hi there 👋 I'm Danish Ahmed  
-
-**Data Scientist · AI Engineer · Problem Solver**  
+<h3 align="center"><b>Data Scientist · AI Engineer · Problem Solver</b></h3>  
 
 I build intelligent systems that transform raw data into impactful solutions — from autonomous robots to AI-powered crop recommendation systems.  
 
@@ -28,6 +24,6 @@ AI for social good · Computer Vision · Robotics · MLOps · Applied Machine Le
 ---
 
 ## 📫 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](#)  
-[![Email](https://img.shields.io/badge/Email-Danish-lightgrey?style=flat-square&logo=gmail)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daanish02)  
+[![Email](https://img.shields.io/badge/Email-Danish-lightgrey?style=flat-square&logo=gmail)](ahmed.daanish02@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://github.com/daaanishhh002)  
